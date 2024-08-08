@@ -20,7 +20,7 @@ export default function Home() {
         statusText="Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207" likeNum={100}/>
     
         {/* Comment */}
-        <Comment username="Lisa" userImagePath="/profileImages/lisa.jpg" commentText="จริงค่า" likeNum={999} />
+        
 
         {/* Reply Example */}
         <div className="d-flex gap-2 my-2 ps-5">
